@@ -6,7 +6,7 @@ contract MyToken {
     // public variables here
     string public tokenName = "Ether";
     string public tokenAbbrv = "ETH";
-    uint public totalsupply = 1000000;
+    uint public totalsupply = 0;
 
     // Mapping to track the token balance of each address
     mapping(address => uint) public tokenBalances;
