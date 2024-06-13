@@ -6,7 +6,7 @@ The `MyToken` Solidity contract is a basic token management system that allows m
 
 - Token Name: Ether
 - Token Abbreviation: ETH
-- Initial Total Supply: 1,000,000
+- Initial Total Supply: 0
 
 ## Contract Functions
 
